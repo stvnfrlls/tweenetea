@@ -11,7 +11,7 @@
 <body>
     <h1>LOGIN PAGE</h1>
     <a href="../index.php">Home</a>
-    <a href="faculty\scanQR.php">SCAN</a>
+    <a href="../faculty/scanQR.php">SCAN</a>
     <form method="post" action="<?php $_SERVER["PHP_SELF"] ?>">
         <input type="hidden" name="type" value="login">
         <input type="text" name="usersEmail" placeholder="Email Address">
