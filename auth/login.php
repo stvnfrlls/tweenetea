@@ -1,7 +1,3 @@
-<?php
-require_once('../utils/server.php');
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 
